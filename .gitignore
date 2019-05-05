@@ -1,7 +1,5 @@
 
 node_modules
-definely-server/node_modules
-definely-lambda/node_modules
-definely-lambda/*zip
+jokes-server/node_modules
 *.zip
 .DS_Store

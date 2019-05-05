@@ -1,5 +1,5 @@
 {
-  "name": "definely",
+  "name": "jokes",
   "version": "1.0.0",
   "description": "Drift app in nodejs for fetching definitions for users in conversations",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Driftt/definely.git"
+    "url": "git+ssh://git@github.com/cobyd/jokes.git"
   },
   "keywords": [
     "drift",
@@ -23,9 +23,9 @@
   "author": "Drift",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Driftt/definely/issues"
+    "url": "https://github.com/cobyd/jokes/issues"
   },
-  "homepage": "https://github.com/Driftt/definely#readme",
+  "homepage": "https://github.com/cobyd/jokes#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
